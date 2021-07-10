@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7NDgO/Iv5QJT17vgLvJIjP4UCXIIi/gFqCcQYJF4X/w1ND9epNPQTlyhvVR8qKQuhQbKVBGElNwLktBv5DV+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dioni\\С2000М\\С2000М.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dioni\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\dioni\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

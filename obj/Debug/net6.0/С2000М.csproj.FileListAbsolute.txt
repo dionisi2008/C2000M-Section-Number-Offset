@@ -1,0 +1,15 @@
+C:\Users\dioni\С2000М\bin\Debug\net6.0\С2000М.exe
+C:\Users\dioni\С2000М\bin\Debug\net6.0\С2000М.deps.json
+C:\Users\dioni\С2000М\bin\Debug\net6.0\С2000М.runtimeconfig.json
+C:\Users\dioni\С2000М\bin\Debug\net6.0\С2000М.dll
+C:\Users\dioni\С2000М\bin\Debug\net6.0\ref\С2000М.dll
+C:\Users\dioni\С2000М\bin\Debug\net6.0\С2000М.pdb
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.csproj.AssemblyReference.cache
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.AssemblyInfoInputs.cache
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.AssemblyInfo.cs
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.csproj.CoreCompileInputs.cache
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.dll
+C:\Users\dioni\С2000М\obj\Debug\net6.0\ref\С2000М.dll
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.pdb
+C:\Users\dioni\С2000М\obj\Debug\net6.0\С2000М.genruntimeconfig.cache
